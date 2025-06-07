@@ -8,4 +8,4 @@ Dataset de exemplo: [Jigsaw Toxic Comment Classification Challenge](https://www.
 - Instalar con: `pip install -r requirements.txt`
 
 ## Usar
-- Ejecutar el notebook en `notebooks/toxic_classification.ipynb`
+- Execute o notebook em `notebooks/toxic_classification.ipynb`
