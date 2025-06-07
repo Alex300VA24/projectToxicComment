@@ -31,18 +31,4 @@ Execute o notebook principal localizado em:
 ```bash
 notebooks/toxic_classification.ipynb
 ```
-## Estrutura do Projeto
-📦 projeto/
- ┣ 📂 toxic_comments/
- ┃ ┣ 📜 my_topic_model
- ┃ ┣ 📜 toxic_classification.ipynb
- ┣ 📂 data/
- ┃ ┣ 📜 train.csv
- ┃ ┣ 📜 test.csv
- ┃ ┣ 📜 test_labels.csv
- ┃ ┣ 📜 sample_submission.csv
- ┣ 📂 notebooks/
- ┃ ┣ 📜 toxic_classification.ipynb
- ┣ 📜 requirements.txt
- ┣ 📜 .gitignore
- ┣ 📜 README.md
+
